@@ -9,15 +9,15 @@ The focus is **clarity, reproducibility, and clean results** (because the only t
 ## Contents
 
 ### Homework
-- **Tarea 1 — LIF Neuron (Leaky Integrate-and-Fire)** (`homework/tarea1_lif/`)
+- **HW_1 — LIF Neuron (Leaky Integrate-and-Fire)** (`homework/tarea1_lif/`)
   - How parameters affect LIF neuron dynamics.
-- **Tarea 2 — Frog Visual Stimulus Simulation** (`homework/tarea2_frog_visual/`)
+- **HW_2 — Frog Visual Stimulus Simulation** (`homework/tarea2_frog_visual/`)
   - Numerical integration (Euler), stimulus selection, hysteresis, and a simple motor scheme.
-- **Tarea 3 — Hopfield Network (Digits 0–9)** (`homework/tarea3_hopfield/`)
+- **HW_3 — Hopfield Network (Digits 0–9)** (`homework/tarea3_hopfield/`)
   - Associative memory: store and recover noisy digit patterns.
-- **Tarea 4 — Perceptron (Iris)** (`homework/tarea4_perceptron/`)
+- **HW_4 — Perceptron (Iris)** (`homework/tarea4_perceptron/`)
   - Linear separability and perceptron learning.
-- **Tarea 5 — Hill Climbing & Reference-Point Learning** (`homework/tarea5_hill_climbing/`)
+- **HW_5 — Hill Climbing & Reference-Point Learning** (`homework/tarea5_hill_climbing/`)
   - Heuristic optimization vs. reference-point learning.
 
 ### Extras
