@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+title: "Neural Networks & Machine Learning — Coursework + Projects"
+message: "If you use this repository, please cite it."
+type: software
+authors:
+  - family-names: Rosales
+    given-names: Juan Daniel
+    email: ""
+repository-code: ""
+license: MIT
+version: 0.1.0

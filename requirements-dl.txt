@@ -1,0 +1,10 @@
+# Optional: deep learning & computational neuroscience extras
+
+# Deep learning
+torch
+tensorflow
+torchdiffeq
+
+# Computational neuroscience (may require system dependencies)
+brian2
+neurodynex

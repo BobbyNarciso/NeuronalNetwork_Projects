@@ -1,0 +1,9 @@
+# Core scientific Python stack
+numpy
+pandas
+matplotlib
+scikit-learn
+
+# Notebooks
+jupyter
+notebook
